@@ -29,7 +29,7 @@
 
 [WinstonAI-AI 탐지기, 자칭 99.98% 정확성](https://gowinston.ai/ai-video-detection/)
 
-의견: 아직 신뢰할 수준의 ai-생성 영상 탐지기가 있는 것 같지는 않음. 딥페이크 판독은 자료들이 더 많긴 하지만 경과는 크게 다르지는 않은 듯. 정지 이미지의 경우는 찾아보지 않아서 모르겠음. 아래는 chatGPT의 방법 제안.
+의견: 아직 신뢰할 수준의 ai-생성 영상 탐지기가 있는 것 같지는 않음. 딥페이크 판독은 자료들이 더 많긴 하지만 경과는 크게 다르지는 않은 듯. 정지 이미지의 경우는 찾아보지 않아서 모르겠음. 아래는 ChatGPT4o의 방법 제안.
 >How to detect ai generated video using AI/ML/DL? please in Korean
 
 ```
