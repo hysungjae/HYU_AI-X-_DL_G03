@@ -13,17 +13,26 @@
 
 ## PRELIMINARY_RESEARCH
     여기부터 사전조사 자료 링크 달아주면 됩니다.
-강경호 [깃허브 서식 쓰는 법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+강경호
 
-강경호 [AI생성 이미지 판별 대회 리뷰 - YouTube 영상](https://youtu.be/fmiDrEZ9vyw?si=fJafWSkHFMEq1z_h)
+[깃허브 서식 쓰는 법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-강경호 [OpenAI SORA 관련 - YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
+[AI생성 이미지 판별 대회 리뷰 - YouTube 영상](https://youtu.be/fmiDrEZ9vyw?si=fJafWSkHFMEq1z_h)
 
-강경호 [AI Generated Video Detection 주제 최신 논문 업데이트 중인 깃허브 블로그](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection?tab=readme-ov-file)
+[OpenAI SORA 관련 - YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
 
-강경호 [<시공간적 이상 학습을 통한 AI 생성 비디오 감지> 논문](https://arxiv.org/abs/2403.16638)
+[AI Generated Video Detection 주제 최신 논문 업데이트 중인 깃허브 블로그](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection?tab=readme-ov-file)
 
-강경호 [<Beyond Deepfake Images: Detecting AI-Generated Videos> 논문](https://arxiv.org/abs/2404.15955)
+[<시공간적 이상 학습을 통한 AI 생성 비디오 감지> 논문](https://arxiv.org/abs/2403.16638)
+
+[<Beyond Deepfake Images: Detecting AI-Generated Videos> 논문](https://arxiv.org/abs/2404.15955)
+
+신승민
+
+이상훈
+
+조성재
+
 
 ## MEMBERS
 이름|학과|학번|역할|이메일
