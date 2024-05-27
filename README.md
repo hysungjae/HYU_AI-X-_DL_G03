@@ -41,11 +41,11 @@
 ### DATASET LINK
 ### PREPROCESSING
 ## IV.METHODOLOGY
-Explaining your choice of algorithms (methods)
-Explaining features (if any)
+    Explaining your choice of algorithms (methods)
+    Explaining features (if any)
 ## V.EVALUATION&ANALYSIS
-Graphs, tables, any statistics (if any)
+    Graphs, tables, any statistics (if any)
 ## VI.RELATED_WORKS
-Tools, libraries, blogs, or any documentation that you have used to do this project.
+    Tools, libraries, blogs, or any documentation that you have used to do this project.
 ## VII.CONCLUSION
 
