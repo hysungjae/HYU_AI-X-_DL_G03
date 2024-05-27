@@ -36,4 +36,5 @@
 # PRELIMINARY RESEARCH
     여기부터 사전조사 자료 링크 달아주면 됩니다.
 [깃허브 서식 쓰는 법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [AI생성 이미지 판별 대회 리뷰 - YOUTUBE 영상](https://youtu.be/fmiDrEZ9vyw?si=fJafWSkHFMEq1z_h)
