@@ -1,4 +1,4 @@
-# HYU_AI-X-_DL_G03
+# HYU_AI-X_DL_G03
 # TITLE
 ## AI 이미지/영상 판별 (임시)
 ## 목차
@@ -20,6 +20,10 @@
 [OpenAI SORA 관련 - YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
 
 [AI Generated Video Detection 주제 최신 논문 업데이트 중인 깃허브 블로그](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection?tab=readme-ov-file)
+
+[시공간적 이상 학습을 통한 AI 생성 비디오 감지](https://arxiv.org/abs/2403.16638)
+
+
 
 ## MEMBERS
 이름|학과|학번|역할|이메일
