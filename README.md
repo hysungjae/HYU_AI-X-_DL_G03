@@ -27,6 +27,9 @@
 
 [Beyond Deepfake Images: Detecting AI-Generated Videos-딥페이크관련](https://arxiv.org/abs/2404.15955)
 
+[WinstonAI-AI 탐지기, 자칭 99.98% 정확성](https://gowinston.ai/ai-video-detection/)
+
+
 신승민
 
 이상훈
