@@ -19,7 +19,7 @@
 
 [OpenAI SORA 관련 - YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
 
-
+[AI Generated Video Detection 주제 최신 논문 업데이트 중인 깃허브 블로그](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection?tab=readme-ov-file)
 
 ## MEMBERS
 이름|학과|학번|역할|이메일
