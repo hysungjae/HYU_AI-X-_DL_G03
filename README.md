@@ -17,7 +17,7 @@
 
 [AI생성 이미지 판별 대회 리뷰 - YouTube 영상](https://youtu.be/fmiDrEZ9vyw?si=fJafWSkHFMEq1z_h)
 
-[SORA 관련 YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
+[OpenAI SORA 관련 - YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
 
 
 
