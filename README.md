@@ -3,21 +3,21 @@
 ## AI 이미지/영상 판별 (임시)
 # 목차
 [PRELIMINARY RESEARCH](#36)
-1. [MEMBERS](1.MEMBERS)
-2. [PROPOSAL](#2.PROPOSAL(OPTION A))
+1. [MEMBERS](I.MEMBERS)
+2. [PROPOSAL](II.PROPOSAL)
 3. [DATASETS]
 4. [METHODOLOGY]
 5. [EVALUATION & ANALYSIS]
 6. [RELATED WORKS]
 7. [CONCLUSION & DISCUSSION]
-# 1.MEMBERS
+# I.MEMBERS
 이름|학과|학번|역할|이메일
 ---|---|---|---|---|
 강경호|건축학부|2017025023|조장,|kgh7296@naver.com
 신승민|성악과|0000000000|1|
 이상훈|융합전자공학부|0000000000|2|
 조성재|데이터사이언스학부|0000000000|3|
-# 2. PROPOSAL(OPTION A)
+# II.PROPOSAL
 ## MOTIVATION
 최근 생성형AI 분야가 급속도로 발전하여 이미지, 딥페이크 영상을 넘어, 아예 AI로 제작된 영상에 대한 소식이 들려오고 있다. 사람도 구분하기 힘든 수준으로 올라온 AI 이미지/영상을 판별해주는 모델을 탐색하고 검증하는 것을 목표로 프로젝트를 시작했다.
 ## GOAL
