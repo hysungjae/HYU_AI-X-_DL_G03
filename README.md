@@ -23,9 +23,9 @@
 
 [AI Generated Video Detection 주제 최신 논문 업데이트 중인 깃허브 블로그](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection?tab=readme-ov-file)
 
-[<시공간적 이상 학습을 통한 AI 생성 비디오 감지> 논문](https://arxiv.org/abs/2403.16638)
+[시공간적 이상 학습을 통한 AI 생성 비디오 감지 논문](https://arxiv.org/abs/2403.16638)
 
-[<Beyond Deepfake Images: Detecting AI-Generated Videos> 논문](https://arxiv.org/abs/2404.15955)
+[Beyond Deepfake Images: Detecting AI-Generated Videos-딥페이크관련](https://arxiv.org/abs/2404.15955)
 
 신승민
 
