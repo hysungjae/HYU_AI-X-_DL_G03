@@ -10,6 +10,17 @@
 - [EVALUATION&ANALYSIS](#V.EVALUATION&ANALYSIS)
 - [RELATED_WORKS](#VI.RELATED_WORKS)
 - [CONCLUSION:DISCUSSION](#VII.CONCLUSION:DISCUSSION)
+
+## PRELIMINARY_RESEARCH
+    여기부터 사전조사 자료 링크 달아주면 됩니다.
+[깃허브 서식 쓰는 법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[AI생성 이미지 판별 대회 리뷰 - YouTube 영상](https://youtu.be/fmiDrEZ9vyw?si=fJafWSkHFMEq1z_h)
+
+[SORA 관련 YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
+
+
+
 ## I.MEMBERS
 이름|학과|학번|역할|이메일
 ---|---|---|---|---|
@@ -33,12 +44,3 @@
 ## V.EVALUATION&ANALYSIS
 ## VI.RELATED_WORKS
 ## VII.CONCLUSION:DISCUSSION
-## PRELIMINARY_RESEARCH
-    여기부터 사전조사 자료 링크 달아주면 됩니다.
-[깃허브 서식 쓰는 법](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-[AI생성 이미지 판별 대회 리뷰 - YouTube 영상](https://youtu.be/fmiDrEZ9vyw?si=fJafWSkHFMEq1z_h)
-
-[SORA 관련 YouTube 영상](https://youtu.be/S_QfBYnGKnc?si=RwRCt_ph4-BJJ7BR)
-
-
