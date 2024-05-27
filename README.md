@@ -7,7 +7,7 @@
 - [PROPOSAL](#II.PROPOSAL)
 - [DATASETS](#III.DATASETS)
 - [METHODOLOGY](#IV.METHODOLOGY)
-- [EVALUATION&ANALYSIS](#V.EVALUATION&ANALYSIS)
+- [EVALUATION&ANALYSIS](#V.EVALUATIONandANALYSIS)
 - [RELATED_WORKS](#VI.RELATED_WORKS)
 - [CONCLUSION](#VII.CONCLUSION)
 
@@ -43,7 +43,7 @@
 ## IV.METHODOLOGY
     Explaining your choice of algorithms (methods)
     Explaining features (if any)
-## V.EVALUATION&ANALYSIS
+## V.EVALUATIONandANALYSIS
     Graphs, tables, any statistics (if any)
 ## VI.RELATED_WORKS
     Tools, libraries, blogs, or any documentation that you have used to do this project.
