@@ -75,6 +75,14 @@ EfficientNet, Xception: 최신 모델을 사용하면 감지 성능이 향상될
 
 의견: 저도 경호님 의견과 마찬가지로 아직 신뢰도가 높은 AI 생성물 판독기는 없는 것 같습니다. 일단 지금부터 생성되는 AI의 결과물은 워터마크와 함께 사용해 예방하고, 이미 생성되어있는 것들은 이미지를 지역화 시켜 CNN으로 판독한다면 그래도 좀 높은 신뢰도를 가지고 판별할 수 있을 것 같습니다. 그리고 텍스트, 이미지, 영상, 음성 등 생성형 AI의 결과물의 종류도 다양한데, 어느쪽을 집중적으로 생각해 볼 지도 정해봐야 할 것 같습니다.
 ### 조성재
+[https://www.pcmag.com/how-to/how-to-detect-ai-generated-video-footage](https://www.pcmag.com/how-to/how-to-detect-ai-generated-video-footage)
+
+[https://www.foolproofme.org/articles/975-how-to-recognize-ai-generated-images-and-videos-artificial-intelligence](https://www.foolproofme.org/articles/975-how-to-recognize-ai-generated-images-and-videos-artificial-intelligence)
+
+[중복,https://arxiv.org/abs/2404.15955](https://arxiv.org/abs/2404.15955)
+
+[중복,https://gowinston.ai/ai-video-detection/](https://gowinston.ai/ai-video-detection/)
+
 
 
 ## MEMBERS
