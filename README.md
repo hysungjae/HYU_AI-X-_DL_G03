@@ -103,10 +103,12 @@ EfficientNet, Xception: 최신 모델을 사용하면 감지 성능이 향상될
 5월 28일 13시 이전까지 주제를 확정하는 것으로 한다.
 
 ## DATASETS
-
-[](https://arxiv.org/abs/1803.09179)
-
 ### DATASET LINK
+
+[FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces](https://arxiv.org/abs/1803.09179)
+
+
+
 ### PREPROCESSING
 ## METHODOLOGY
     Explaining your choice of algorithms (methods)
