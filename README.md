@@ -107,7 +107,7 @@ EfficientNet, Xception: 최신 모델을 사용하면 감지 성능이 향상될
 
 [FaceForensics: A Large-scale Video Dataset for Forgery Detection in Human Faces](https://arxiv.org/abs/1803.09179)
 
-
+[FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset](https://arxiv.org/abs/2108.05080)
 
 ### PREPROCESSING
 ## METHODOLOGY
